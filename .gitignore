@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+datasets/
+models/
+predictions/
+*.csv
+btl_code.ipynb
+test_data.ipynb
+time series processing.ipynb
